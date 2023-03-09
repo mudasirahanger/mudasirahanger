@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mudasirahanger
-- 👀 I’m interested in ecommerce 
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m 👨‍FullStack Developer from ✈ kashmir
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on laravel , CI
 - 📫 How to reach me ...
 
 <!---
